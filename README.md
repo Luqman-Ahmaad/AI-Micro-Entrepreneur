@@ -45,5 +45,3 @@ Uses GPT-based models to:
 
 ---
 
-## 📁 Project Structure  
-
